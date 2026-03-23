@@ -11,7 +11,9 @@ Tinkering with AI
 
 ### Current Projects
 
-- **[MiniWhisper](https://github.com/andyhtran/MiniWhisper)** - Minimal macOS menu bar app for speech-to-text transcription
+- **[MiniWhisper](https://github.com/andyhtran/MiniWhisper)** - Free minimal macOS menu bar app for voice-to-text transcription
+- **[NanoVoice](https://apps.apple.com/kz/app/nanovoice/id6760539688)** - Free iOS app for on-device voice-to-text transcription
+- **[Chapter One](https://apps.apple.com/kz/app/chapter-one-1/id6749249992)** - iOS app for 1-minute AI-powered book summaries
 - **[cct](https://github.com/andyhtran/cct)** - CLI tool for quickly searching, resuming, and summarizing past Claude Code sessions
 - **[deepwiki-by-cc](https://github.com/andyhtran/deepwiki-by-cc)** - DeepWiki clone for private repos using Claude Code CLI
 - **[homebrew-tap](https://github.com/andyhtran/homebrew-tap)** - Homebrew tap for CLI tools and macOS apps
