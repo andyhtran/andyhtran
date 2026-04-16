@@ -15,7 +15,8 @@ Tinkering with AI
 - **[NanoVoice](https://apps.apple.com/kz/app/nanovoice/id6760539688)** - Free iOS app for on-device voice-to-text transcription
 - **[Chapter One](https://apps.apple.com/kz/app/chapter-one-1/id6749249992)** - iOS app for 1-minute AI-powered book summaries
 - **[cct](https://github.com/andyhtran/cct)** - CLI tool for quickly searching, resuming, and summarizing past Claude Code sessions
-- **[deepwiki-by-cc](https://github.com/andyhtran/deepwiki-by-cc)** - DeepWiki clone for private repos using Claude Code CLI
+- **[deepwiki-by-cc](https://github.com/andyhtran/deepwiki-by-cc)** - DeepWiki clone for private repos using Claude Code or Codex CLI
+- **[Shortgo](https://shortgo.to/)** - Internal go links for teams to jump to any doc, dashboard, or tool in seconds
 - **[homebrew-tap](https://github.com/andyhtran/homebrew-tap)** - Homebrew tap for CLI tools and macOS apps
 
 ### Connect
