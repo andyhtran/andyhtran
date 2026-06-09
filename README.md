@@ -15,6 +15,7 @@ Tinkering with AI
 - **[NanoVoice](https://apps.apple.com/kz/app/nanovoice/id6760539688)** - Free iOS app for on-device voice-to-text transcription
 - **[CopyCat](https://github.com/andyhtran/CopyCat)** - Free macOS menu bar app for ⌘V-pasting screenshots into terminals (local + SSH)
 - **[GhostTerm](https://community.obsidian.md/plugins/ghostterm)** - Obsidian plugin that embeds Ghostty-powered terminal surfaces in your workspace
+- **[slacky](https://github.com/andyhtran/slacky)** - Read-only Slack search CLI for fast context, built for people and agents
 - **[cct](https://github.com/andyhtran/cct)** - CLI tool for quickly searching, resuming, and summarizing past Claude Code sessions
 - **[deepwiki-by-cc](https://github.com/andyhtran/deepwiki-by-cc)** - DeepWiki clone for private repos using Claude Code or Codex CLI
 - **[Shortgo](https://shortgo.to/)** - Internal go links for teams to jump to any doc, dashboard, or tool in seconds
